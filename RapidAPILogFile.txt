@@ -1,0 +1,12 @@
+[20/05/2017 18:50:21] Actual:  Success 200 
+[20/05/2017 18:50:21] Expected: Success 200
+[20/05/2017 18:54:01] Actual:  Success 200 
+[20/05/2017 18:54:01] Expected: Success 200
+[20/05/2017 18:55:21] Actual:  Success 200 
+[20/05/2017 18:55:21] Expected: Success 200
+[20/05/2017 23:31:47] Expected: Thanks for the suggestion. We can't wait to see what you'll create with the API!
+[20/05/2017 23:31:47] Actual: 
+[20/05/2017 23:35:26] Expected: Thanks for the suggestion. We can't wait to see what you'll create with the API!
+[20/05/2017 23:35:26] Actual: 
+[20/05/2017 23:46:05] Expected: Thanks for the suggestion. We can't wait to see what you'll create with the API!
+[20/05/2017 23:47:36] Expected: Thanks for the suggestion. We can't wait to see what you'll create with the API!
